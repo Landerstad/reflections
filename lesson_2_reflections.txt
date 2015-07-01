@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+--> It creates the .git log and we need in order to get git works.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+-->it only prepares the files ready to sumbit without doing any permanent register
