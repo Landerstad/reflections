@@ -13,4 +13,4 @@ Why do you think some version control systems, like Git, allow saving multiple f
 -->Cause in coding, in many cases you'll need different files to build a whole solution.
 
 How can you use the commands git log and git diff to view the history of files?
---> just put it on the command prompt and we can see all the historic and differences between files
+--> just put it on the command prompt and we can see all the historic and differences between files 1wer
