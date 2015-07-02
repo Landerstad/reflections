@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
 --> Cause sometimes you work in different places or you are not the owner's project
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+--> because we don't want trash in our publi repository and theres a public dommain
